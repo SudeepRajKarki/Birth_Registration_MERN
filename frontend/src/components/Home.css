@@ -1,0 +1,46 @@
+.hero-section {
+    background: linear-gradient(to right, #dc143c, #ff4b2b);
+    color: white;
+    padding: 4rem 2rem;
+    border-radius: 20px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.hero-title {
+    font-size: 2.75rem;
+    font-weight: 800;
+}
+
+.hero-description {
+    font-size: 1.25rem;
+    font-weight: 500;
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.cta-btn {
+    background-color: #fff;
+    color: #dc143c;
+    padding: 0.75rem 2rem;
+    font-weight: 600;
+    border-radius: 30px;
+    transition: all 0.3s ease-in-out;
+    display: inline-block;
+}
+
+.cta-btn:hover {
+    background-color: #dc143c;
+    color: white;
+}
+
+.custom-card {
+    border: none;
+    border-radius: 20px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.custom-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 12px 24px rgba(0, 0, 0, 0.2);
+}
