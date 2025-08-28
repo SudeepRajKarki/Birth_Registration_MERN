@@ -6,11 +6,13 @@ Birth Registration System
 ✨ Built using React for the frontend and Node.js/Express with MongoDB for the backend, featuring user authentication, admin approvals, PDF generation, QR verification, and a smooth user experience. 🚀
 
 🌟 Features
+
 🔐 Authentication
 
 ✅ User Register/Login with email verification 📧
 
 ✅ Password recovery using reset link 🔄
+
 
 📝 Birth Registration
 
@@ -20,6 +22,7 @@ Birth Registration System
 
 ✅ Declined registrations are tracked (not deleted) for audit purposes 📜
 
+
 📄 PDF & Verification
 
 ✅ Generate PDF of approved registrations 🖨️
@@ -28,6 +31,7 @@ Birth Registration System
 
 ✅ QR-based verification for public and official validation ✅
 
+
 📊 Admin Panel
 
 ✅ Admins can view all registrations with filters (Pending, Approved) 🎛️
@@ -35,6 +39,7 @@ Birth Registration System
 ✅ Approve/Decline registrations with reason 📝
 
 ✅ Track all declined and approved submissions ✅
+
 
 📌 User Dashboard
 
@@ -98,6 +103,7 @@ npm install
 
 npm run dev
 
+
 🚀 Usage
 
 User registers and logs in 🧑‍💻
@@ -121,3 +127,4 @@ Feel free to fork the repo, submit issues, or open a pull request.
 ❤️ Support
 
 If you like this project, please ⭐ star the repository! 🌟
+
